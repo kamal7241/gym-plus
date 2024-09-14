@@ -1,0 +1,15 @@
+# Ignore node_modules directory
+node_modules
+
+
+# Ignore environment variable files
+.env
+
+# Ignore development tools and configurations
+.vscode
+.nodemon.json
+Dockerfile
+.dockerignore
+
+# Ignore version control files and directories
+.gitignore
